@@ -1,0 +1,220 @@
+INFO:sim:172 - Generating IP...
+Applying current project options...
+Finished applying current project options.
+WARNING:sim - A core named 'pcie_x8_gen2' already exists in the project. Output
+   products for this core may be overwritten.
+Resolving generics for 'pcie_x8_gen2'...
+WARNING:sim - A core named 'pcie_x8_gen2' already exists in the project. Output
+   products for this core may be overwritten.
+Applying external generics to 'pcie_x8_gen2'...
+Delivering associated files for 'pcie_x8_gen2'...
+WARNING:sim - Component v6_pcie_v2_5 does not have a valid model name for
+   Verilog synthesis
+Delivering EJava files for 'pcie_x8_gen2'...
+WARNING:sim - Overwriting existing file
+   D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/doc/ds800_v6_pcie.pdf with
+   file from view xilinx_documentation
+Delivered 2 files into directory
+D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2
+Generating ASY schematic symbol...
+INFO:sim:993 - The selected IP does not support an ASY schematic symbol.
+INFO:sim:949 - Finished generation of ASY schematic symbol.
+WARNING:sim - The chosen IP does not support an SYM schematic symbol.
+Generating metadata file...
+Generating ISE project...
+XCO file found: pcie_x8_gen2.xco
+XMDF file found: pcie_x8_gen2_xmdf.tcl
+Adding
+D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/gtx_tx_sync_rate_v6.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/gtx_tx_sync_rate_v6
+   .v" into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/gtx_wrapper_v6.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/gtx_wrapper_v6.v"
+   into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding
+D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/gtx_rx_valid_filter_v6.
+v -view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/gtx_rx_valid_filter
+   _v6.v" into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding
+D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_upconfig_fix_3451_
+v6.v -view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_upconfig_fix_3
+   451_v6.v" into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_2_0_v6.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_2_0_v6.v" into
+   library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding
+D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_bram_top_v6.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_bram_top_v6.v"
+   into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_bram_v6.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_bram_v6.v"
+   into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_brams_v6.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_brams_v6.v"
+   into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding
+D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_clocking_v6.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_clocking_v6.v"
+   into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_gtx_v6.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_gtx_v6.v" into
+   library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding
+D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_pipe_lane_v6.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_pipe_lane_v6.v
+   " into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding
+D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_pipe_misc_v6.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_pipe_misc_v6.v
+   " into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_pipe_v6.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_pipe_v6.v"
+   into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding
+D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_reset_delay_v6.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_reset_delay_v6
+   .v" into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding
+D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/axi_basic_tx_thrtl_ctl.
+v -view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/axi_basic_tx_thrtl_
+   ctl.v" into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/axi_basic_rx.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/axi_basic_rx.v"
+   into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding
+D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/axi_basic_rx_null_gen.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/axi_basic_rx_null_g
+   en.v" into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding
+D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/axi_basic_rx_pipeline.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/axi_basic_rx_pipeli
+   ne.v" into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding
+D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/axi_basic_tx_pipeline.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/axi_basic_tx_pipeli
+   ne.v" into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/axi_basic_tx.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/axi_basic_tx.v"
+   into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/axi_basic_top.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/axi_basic_top.v"
+   into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_x8_gen2.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_x8_gen2.v"
+   into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/sync_fifo.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/sync_fifo.v" into
+   library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_cfg_128.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_cfg_128.v"
+   into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/trn_rx_128.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/trn_rx_128.v" into
+   library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/trn_tx_128.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/trn_tx_128.v" into
+   library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_trn_128.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_trn_128.v"
+   into library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_128_if.v
+-view all -origin_type created
+INFO:HDLCompiler:1845 - Analyzing Verilog file
+   "D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2/source/pcie_128_if.v" into
+   library work
+INFO:ProjectMgmt - Parsing design hierarchy completed successfully.
+Adding D:/FPGA/v6_pciex8/ipcore_dir/tmp/_cg/pcie_x8_gen2.veo -view all
+-origin_type imported
+INFO:TclTasksC:2116 - The automatic calculation of top has been turned-off.
+   Please set the new top explicitly by running the "project set top" command.
+   To re-calculate the new top automatically, set the "Auto Implementation Top"
+   property to true.
+Top level has been set to "/pcie_x8_gen2"
+Generating README file...
+Generating FLIST file...
+INFO:sim:948 - Finished FLIST file generation.
+Launching README viewer...
+Moving files to output directory...
+Finished moving files to output directory
+Wrote CGP file for project 'pcie_x8_gen2'.

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\FPGA\v6_pciex8\xilinx_pcie_2_0_ep_v6.ncd
+OUTFILE=D:\FPGA\v6_pciex8\xilinx_pcie_2_0_ep_v6.bit
+FAMILY=Virtex6
+PART=xc6vlx240t-3ff1156
+WORKINGDIR=D:\FPGA\v6_pciex8
+LICENSE=ISE
+USER_INFO=205589051_15690819_210558907_866

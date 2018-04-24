@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="v6_pciex8" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/BMD_128_TX_ENGINE D:|FPGA|v6_pciex8|pcie_7x_0|bmd|BMD_128_TX_ENGINE.v</ClosedNode>
+         <ClosedNode>/PIO D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|PIO.v/PIO_EP - PIO_EP</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/CLK_GEN_EP - sys_clk_gen_ds</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6/app - pcie_app_7x/BMD - BMD</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6/app - pcie_app_v6</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6/core - pcie_x8_gen2</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/RP - xilinx_pcie_2_0_rport_v6</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|simulation|functional|board.v</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|simulation|functional|board.v/CLK_GEN_EP - sys_clk_gen_ds</ClosedNode>
+         <ClosedNode>/pcie_2_0_rport_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|dsport|pcie_2_0_rport_v6.v/pcie_2_0_i - pcie_2_0_v6_rp</ClosedNode>
+         <ClosedNode>/pcie_2_1_rport_7x D:|FPGA|v6_pciex8|simulation|dsport|pcie_2_1_rport_7x.v</ClosedNode>
+         <ClosedNode>/pcie_app_7x D:|FPGA|v6_pciex8|pcie_7x_0|bmd|pcie_app_7x_bmd.v/BMD - BMD</ClosedNode>
+         <ClosedNode>/pcie_app_7x D:|FPGA|v6_pciex8|pcie_7x_0|bmd|pcie_app_7x_bmd.v/axi_trn_top - axi_trn_top</ClosedNode>
+         <ClosedNode>/pcie_app_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|pcie_app_v6.v/PIO - PIO</ClosedNode>
+         <ClosedNode>/pcie_app_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|pcie_app_v6.v/PIO - PIO/PIO_EP - PIO_EP/EP_MEM - PIO_EP_MEM_ACCESS</ClosedNode>
+         <ClosedNode>/pcie_top D:|FPGA|v6_pciex8|pcie_top.v/app - pcie_app_7x</ClosedNode>
+         <ClosedNode>/pcie_top D:|FPGA|v6_pciex8|pcie_top.v/app - pcie_app_7x/BMD - BMD</ClosedNode>
+         <ClosedNode>/pcie_top D:|FPGA|v6_pciex8|pcie_top.v/app - pcie_app_7x/axi_trn_top - axi_trn_top</ClosedNode>
+         <ClosedNode>/pcie_top D:|FPGA|v6_pciex8|pcie_top.v/pcie_core - pcie_x8_gen2</ClosedNode>
+         <ClosedNode>/pcie_top D:|FPGA|v6_pciex8|pcie_top.v/pcie_core - pcie_x8_gen2/axi_basic_top - axi_basic_top</ClosedNode>
+         <ClosedNode>/pcie_top D:|FPGA|v6_pciex8|pcie_top.v/pcie_core - pcie_x8_gen2/pcie_2_0_i - pcie_2_0_v6</ClosedNode>
+         <ClosedNode>/pcie_x8_gen2 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|source|pcie_x8_gen2.v/axi_basic_top - axi_basic_top</ClosedNode>
+         <ClosedNode>/pcie_x8_gen2 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|source|pcie_x8_gen2.v/pcie_2_0_i - pcie_2_0_v6</ClosedNode>
+         <ClosedNode>/xilinx_pcie_2_0_ep_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|xilinx_pcie_2_0_ep_v6.v/app - pcie_app_7x</ClosedNode>
+         <ClosedNode>/xilinx_pcie_2_0_ep_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|xilinx_pcie_2_0_ep_v6.v/app - pcie_app_7x/BMD - BMD</ClosedNode>
+         <ClosedNode>/xilinx_pcie_2_0_ep_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|xilinx_pcie_2_0_ep_v6.v/app - pcie_app_7x/axi_trn_top - axi_trn_top</ClosedNode>
+         <ClosedNode>/xilinx_pcie_2_0_ep_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|xilinx_pcie_2_0_ep_v6.v/app - pcie_app_v6/PIO - PIO/PIO_EP - PIO_EP</ClosedNode>
+         <ClosedNode>/xilinx_pcie_2_0_ep_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|xilinx_pcie_2_0_ep_v6.v/core - pcie_x8_gen2</ClosedNode>
+         <ClosedNode>/xilinx_pcie_2_0_ep_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|xilinx_pcie_2_0_ep_v6.v/core - pcie_x8_gen2/axi_basic_top - axi_basic_top</ClosedNode>
+         <ClosedNode>/xilinx_pcie_2_0_ep_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|xilinx_pcie_2_0_ep_v6.v/core - pcie_x8_gen2/pcie_2_0_i - pcie_2_0_v6</ClosedNode>
+         <ClosedNode>/xilinx_pcie_2_0_ep_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|xilinx_pcie_2_0_ep_v6.v/core - pcie_x8_gen2/pcie_2_0_i - pcie_2_0_v6/pcie_128_if_i - pcie_128_if</ClosedNode>
+         <ClosedNode>/xilinx_pcie_2_0_ep_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|xilinx_pcie_2_0_ep_v6.v/core - pcie_x8_gen2/pcie_2_0_i - pcie_2_0_v6/pcie_bram_i - pcie_bram_top_v6</ClosedNode>
+         <ClosedNode>/xilinx_pcie_2_0_ep_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|xilinx_pcie_2_0_ep_v6.v/core - pcie_x8_gen2/pcie_2_0_i - pcie_2_0_v6/pcie_pipe_i - pcie_pipe_v6</ClosedNode>
+         <ClosedNode>/xilinx_pcie_2_0_rport_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|dsport|xilinx_pcie_2_0_rport_v6.v/rport - pcie_2_0_rport_v6</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>xilinx_pcie_2_0_ep_v6 (D:/FPGA/v6_pciex8/ipcore_dir/pcie_x8_gen2/example_design/xilinx_pcie_2_0_ep_v6.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000249000000020000000000000000000000000200000064ffffffff000000810000000300000002000002490000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>xilinx_pcie_2_0_ep_v6 (D:/FPGA/v6_pciex8/ipcore_dir/pcie_x8_gen2/example_design/xilinx_pcie_2_0_ep_v6.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000033f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000033f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000392000000040101000100000000000000000000000064ffffffff0000008100000000000000040000003d0000000100000000000000240000000100000000000000780000000100000000000002b90000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ipcore_dir\pcie_x8_gen2\example_design\EP_MEM.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000121000000010001000100000000000000000000000064ffffffff000000810000000000000001000001210000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route/Back-annotate Pin Locations</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route/Generate IBIS Model</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route/Generate Post-Place &amp; Route Static Timing</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Generate Post-Place &amp; Route Static Timing</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >5</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000032e000000010000000100000000000000000000000064ffffffff0000008100000000000000010000032e0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Generate Post-Place &amp; Route Static Timing</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_XCO" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>View HDL Functional Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000033f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000033f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>View HDL Functional Model</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000012d0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/BMD_128_TX_ENGINE D:|FPGA|v6_pciex8|pcie_7x_0|bmd|BMD_128_TX_ENGINE.v</ClosedNode>
+         <ClosedNode>/PIO D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|PIO.v</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/CLK_GEN_EP - sys_clk_gen_ds</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6/app - pcie_app_7x</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6/app - pcie_app_7x/BMD - BMD/BMD_EP - BMD_EP/EP_TX - BMD_128_TX_ENGINE</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6/app - pcie_app_7x/axi_trn_top - axi_trn_top</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6/app - pcie_app_v6/PIO - PIO</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6/core - pcie_x8_gen2/axi_basic_top - axi_basic_top</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6/core - pcie_x8_gen2/pcie_2_0_i - pcie_2_0_v6</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6/core - pcie_x8_gen2/pcie_2_0_i - pcie_2_0_v6/pcie_128_if_i - pcie_128_if</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6/core - pcie_x8_gen2/pcie_2_0_i - pcie_2_0_v6/pcie_128_if_i - pcie_128_if/pcie_trn_128_i - pcie_trn_128/trn_rx_128_i - trn_rx_128</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6/core - pcie_x8_gen2/pcie_2_0_i - pcie_2_0_v6/pcie_bram_i - pcie_bram_top_v6</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6/core - pcie_x8_gen2/pcie_2_0_i - pcie_2_0_v6/pcie_gt_i - pcie_gtx_v6</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/EP - xilinx_pcie_2_0_ep_v6/core - pcie_x8_gen2/pcie_2_0_i - pcie_2_0_v6/pcie_pipe_i - pcie_pipe_v6</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/RP - xilinx_pcie_2_0_rport_v6</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/RP - xilinx_pcie_2_0_rport_v6/rport - pcie_2_0_rport_v6</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/RP - xilinx_pcie_2_0_rport_v6/rport - pcie_2_0_rport_v6/pcie_2_0_i - pcie_2_0_v6_rp</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/RP - xilinx_pcie_2_0_rport_v6/rport - pcie_2_0_rport_v6/pcie_2_0_i - pcie_2_0_v6_rp/pcie_bram_i - pcie_bram_top_v6</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/RP - xilinx_pcie_2_0_rport_v6/rport - pcie_2_0_rport_v6/pcie_2_0_i - pcie_2_0_v6_rp/pcie_gt_i - pcie_gtx_v6</ClosedNode>
+         <ClosedNode>/board D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|functional|board.v/RP - xilinx_pcie_2_0_rport_v6/rport - pcie_2_0_rport_v6/pcie_2_0_i - pcie_2_0_v6_rp/pcie_pipe_i - pcie_pipe_v6</ClosedNode>
+         <ClosedNode>/pcie_app_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|pcie_app_v6.v</ClosedNode>
+         <ClosedNode>/pcie_app_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|pcie_app_v6.v/PIO - PIO</ClosedNode>
+         <ClosedNode>/pcie_top D:|FPGA|v6_pciex8|pcie_top.v/app - pcie_app_7x</ClosedNode>
+         <ClosedNode>/pcie_top D:|FPGA|v6_pciex8|pcie_top.v/pcie_core - pcie_x8_gen2</ClosedNode>
+         <ClosedNode>/xilinx_pcie_2_0_ep_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|example_design|xilinx_pcie_2_0_ep_v6.v</ClosedNode>
+         <ClosedNode>/xilinx_pcie_2_0_rport_v6 D:|FPGA|v6_pciex8|ipcore_dir|pcie_x8_gen2|simulation|dsport|xilinx_pcie_2_0_rport_v6.v/rport - pcie_2_0_rport_v6</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>board (D:/FPGA/v6_pciex8/ipcore_dir/pcie_x8_gen2/simulation/functional/board.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >1</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000294000000020000000000000000000000000200000064ffffffff000000810000000300000002000002940000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>board (D:/FPGA/v6_pciex8/ipcore_dir/pcie_x8_gen2/simulation/functional/board.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000033f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000033f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000033f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000033f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="ManualCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>pcie_top.v (D:/FPGA/v6_pciex8/pcie_top.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000263000000020000000000000000000000000000000064ffffffff000000810000000000000002000001e600000001000000000000007d0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>pcie_top.v (D:/FPGA/v6_pciex8/pcie_top.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000033f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000033f0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+</Project>
